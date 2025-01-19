@@ -10,6 +10,9 @@
 * [TIM-2024] **Handling Occlusion in UAV Visual Tracking with Query-Guided Re-Detection**, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang.
   [[Paper](https://ieeexplore.ieee.org/document/10633268)]
   [[Code](https://github.com/xyl-507/QRDT)]
+* [TGRS-2024] **Learning Target-Aware Vision Transformers for Real-Time UAV Tracking**, Shuiwang Li, Xiangyang Yang, Xucheng Wang, Dan Zeng, Hengzhou Ye, Qijun Zhao.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10568178)]
+  [[Code](https://github.com/xyyang317/TATrack)]
 
 
 ## Year 2023
