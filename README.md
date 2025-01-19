@@ -1,6 +1,9 @@
 # UAV_Single_Object_Tracking_Paperlist
 
 ## Year 2024
+* [ICML-2024] **Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking**, Yongxin Li, Mengyuan Liu, You Wu, Xucheng Wang, Xiangyang Yang, Shuiwang Li.
+  [[Paper](https://openreview.net/pdf?id=eaNLvrP8n1)]
+  [[Code](https://github.com/wuyou3474/AVTrack)]
 * [TGRS-2024] **Learning Target-Aware Vision Transformers for Real-Time UAV Tracking**, Shuiwang Li, Xiangyang Yang, Xucheng Wang, Dan Zeng, Hengzhou Ye, Qijun Zhao.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10568178)]
   [[Code](https://github.com/xyyang317/TATrack)]
@@ -10,9 +13,6 @@
 * [TIM-2024] **Handling Occlusion in UAV Visual Tracking with Query-Guided Re-Detection**, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang.
   [[Paper](https://ieeexplore.ieee.org/document/10633268)]
   [[Code](https://github.com/xyl-507/QRDT)]
-* [TGRS-2024] **Learning Target-Aware Vision Transformers for Real-Time UAV Tracking**, Shuiwang Li, Xiangyang Yang, Xucheng Wang, Dan Zeng, Hengzhou Ye, Qijun Zhao.
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10568178)]
-  [[Code](https://github.com/xyyang317/TATrack)]
 
 
 ## Year 2023
