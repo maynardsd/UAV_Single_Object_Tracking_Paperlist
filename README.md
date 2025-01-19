@@ -8,7 +8,11 @@
   [[Paper](https://arxiv.org/pdf/2407.05383)]
   [[Code](https://github.com/wuyou3474/BDTrack)]
 
+
 ## Year 2023
 * [ICCV-2023] **Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking**, Shuiwang Li, Yangxiang Yang, Dan Zeng, Xucheng Wang;.
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)]
   [[Code](https://github.com/xyyang317/Aba-ViTrack)]
+* [ICRA-2023] **SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking**, Liangliang Yao, Changhong Fu, Sihang Li, Guangze Zheng, Junjie Ye.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10161487)]
+  [[Code](https://github.com/vision4robotics/SGDViT)]
