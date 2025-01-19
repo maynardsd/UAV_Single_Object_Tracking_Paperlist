@@ -22,3 +22,6 @@
 * [ICRA-2023] **SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking**, Liangliang Yao, Changhong Fu, Sihang Li, Guangze Zheng, Junjie Ye.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10161487)]
   [[Code](https://github.com/vision4robotics/SGDViT)]
+* [TGRS-2023] **SmallTrack: Wavelet Pooling and Graph Enhanced Classification for UAV Small Object Tracking**, Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10220112)]
+  [[Code](https://github.com/xyl-507/SmallTrack)]
