@@ -7,6 +7,9 @@
 * [arXiv-2024] **Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking**, You Wu, Xucheng Wang, Dan Zeng, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, and Shuiwang Li.
   [[Paper](https://arxiv.org/pdf/2407.05383)]
   [[Code](https://github.com/wuyou3474/BDTrack)]
+* [TIM-2024] **Handling Occlusion in UAV Visual Tracking with Query-Guided Re-Detection**, Yuanliang Xue, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang.
+  [[Paper](https://ieeexplore.ieee.org/document/10633268)]
+  [[Code](https://github.com/xyl-507/QRDT)]
 
 
 ## Year 2023
