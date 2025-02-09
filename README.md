@@ -1,6 +1,9 @@
 # UAV_Single_Object_Tracking_Paperlist
 
 ## Year 2024
+* [JSTAR-2024] **TrackingMamba: Visual State Space Model for Object Tracking**,  Qingwang Wang, Liyao Zhou, Pengcheng Jin, Xin Qu, Hangwei Zhong, Haochen Song, Tao Shen.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10678881)]
+  [[Code](https://github.com/KustTeamWQW/TrackingMamba)]
 * [ICML-2024] **Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking**, Yongxin Li, Mengyuan Liu, You Wu, Xucheng Wang, Xiangyang Yang, Shuiwang Li.
   [[Paper](https://openreview.net/pdf?id=eaNLvrP8n1)]
   [[Code](https://github.com/wuyou3474/AVTrack)]
