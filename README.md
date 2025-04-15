@@ -1,5 +1,10 @@
 # UAV_Single_Object_Tracking_Paperlist
 
+## Year 2025
+* [AAAI-2025] **LVPTrack: High Performance Domain Adaptive UAV Tracking with Label Aligned Visual Prompt Tuning**, Hongjing Wu, Siyuan Yao, Feng Huang, Shu Wang,
+ Linchao Zhang, Zhuoran Zheng, Wenqi Ren.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32906)]
+
 ## Year 2024
 * [JSTAR-2024] **TrackingMamba: Visual State Space Model for Object Tracking**,  Qingwang Wang, Liyao Zhou, Pengcheng Jin, Xin Qu, Hangwei Zhong, Haochen Song, Tao Shen.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10678881)]
